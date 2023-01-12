@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "<your-projectid>": {
+      "hosting": {
+        "testoptimization": [
+          "<your-projectid>"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "<your-projectid>"
+  }
+}
